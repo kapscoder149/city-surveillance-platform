@@ -1,3 +1,4 @@
+![Banner](docs/images/banner.png)
 # Surveillance Operations Platform Showcase
 
 > **Production-inspired AI-assisted Surveillance Operations Platform** demonstrating modern full-stack software engineering, scalable system architecture, and prototype-driven development.
