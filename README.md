@@ -161,13 +161,6 @@ React Application
  Edge Devices & CCTV Network
 ```
 
----
-
-# Screenshots
-
-> *(Application screenshots will be added here.)*
-
----
 
 # Terminal Operations Console
 
