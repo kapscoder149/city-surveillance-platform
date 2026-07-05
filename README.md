@@ -206,7 +206,6 @@ Additional documentation is available in the `docs/` directory.
 
 This repository will continue to evolve with:
 
-- Updated screenshots
 - Architecture diagrams
 - Terminal console demonstrations
 - Additional workflow documentation
